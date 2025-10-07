@@ -1,5 +1,4 @@
 [Beranda.html](https://github.com/user-attachments/files/22750178/Beranda.html)
-<!doctype html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
